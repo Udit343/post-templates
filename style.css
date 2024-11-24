@@ -1,0 +1,16 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color: antiquewhite;
+}
+.user{
+    font-style: italic;
+}
+button{
+    color: rgb(255, 127, 131);
+}
+.B{
+    background-color: brown;
+    color: white;
+}
